@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rjenikizknjievn01danigoog/rjenikizknjievn01danigoog_0005.png"; bbox 0 0 2959 4567; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 385 578 1329 811">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 385 578 1329 811">
+     <span class='ocr_line' id='line_1_1' title="bbox 470 578 1329 673; baseline -0.001 -5"><span class='ocrx_word' id='word_1_1' title='bbox 470 578 883 669; x_wconf 85' lang='lat' dir='ltr'><strong>EDITIONES</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 904 580 1329 673; x_wconf 82' lang='lat' dir='ltr'>MONUMENTol</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 385 715 1329 811; baseline 0.002 -6"><span class='ocrx_word' id='word_1_3' title='bbox 385 715 914 810; x_wconf 85' lang='lat' dir='ltr'><strong>SLAVICORUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 937 720 1182 811; x_wconf 88' lang='lat' dir='ltr'>VETERIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1205 718 1329 809; x_wconf 79' lang='grc' dir='ltr'><strong>[ΗΑ]</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 409 894 1329 999">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 409 894 1329 999">
+     <span class='ocr_line' id='line_1_3' title="bbox 409 894 1329 999; baseline -0.001 -29"><span class='ocrx_word' id='word_1_6' title='bbox 409 894 887 999; x_wconf 82' lang='lat' dir='ltr'><strong>Herausgegeben</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 906 923 996 973; x_wconf 90' lang='lat' dir='ltr'><strong>vom</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1015 897 1177 973; x_wconf 83' lang='lat' dir='ltr'><strong>Institut</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1197 896 1266 971; x_wconf 80' lang='lat' dir='ltr'>fiir</span> <span class='ocrx_word' id='word_1_10' title='bbox 1286 894 1329 969; x_wconf 48' lang='lat' dir='ltr'><strong>Sl¹</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 752 1010 1237 1089">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 752 1010 1237 1089">
+     <span class='ocr_line' id='line_1_4' title="bbox 752 1010 1237 1089; baseline -0.002 -4"><span class='ocrx_word' id='word_1_11' title='bbox 752 1011 858 1085; x_wconf 88' lang='lat' dir='ltr'><strong>der</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 875 1010 1112 1089; x_wconf 61' lang='lat' dir='ltr'><strong>Universitiit</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1131 1010 1237 1087; x_wconf 86' lang='lat' dir='ltr'>Graz</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1484 4567">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1484 4567">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1484 4567; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1484 4567; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
